@@ -154,3 +154,14 @@ select {
     display: none;
   }
 }
+
+@media screen and (max-width: 480px) {
+  form input,
+  form button {
+    font-size: 1rem;
+  }
+
+  .todo {
+    font-size: 1rem;
+  }
+}
