@@ -4,4 +4,6 @@ Grocery list is a todo list web app that allows you to add list items, cross out
 
 Created with HTML, CSS, and Vanilla JavaScript
 
+Live Site: https://shopping-time.netlify.app/
+
 ![Grocery List](./images/todo.jpg)
